@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://xulab5.github.io/clipboard-landing-page-master/)
-- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/solutions/clipboardlandingpagemaster-fBjN2d0OKp)
+- Live Site URL: [View page](https://xulab5.github.io/clipboard-landing-page-master/)
 
 ## My process
 
